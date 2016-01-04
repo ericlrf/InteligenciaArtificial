@@ -1,0 +1,14 @@
+1 azul
+2 azul amarelo
+3 azul vermelho
+4 azul verde
+5 azul amarelo
+6 azul
+7 amarelo
+8 amarelo verde
+9 amarelo vermelho
+10 amarelo
+11 vermelho
+12 verde
+13 verde vermelho
+14 verde
